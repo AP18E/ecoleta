@@ -157,7 +157,7 @@ $ npm run start
 
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA](license) para saber mais.
 
-Feito com ❤️ por Leonardo Carvalho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/leonardo-dev/)
+Feito com ❤️ por oDevBR 👋🏽 [Entre em contato!](https://www.linkedin.com/in/joao-aquino/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
